@@ -11,8 +11,9 @@ For the installation you need:
 - Win ![OS](https://icons.iconarchive.com/icons/kearone/comicons/16/windows-symbol-icon.png)
   / Mac ![OS](https://icons.iconarchive.com/icons/tatice/cristal-intense/16/Apple-multicolor-icon.png)
   / Linux ![OS](https://icons.iconarchive.com/icons/tatice/operating-systems/16/Linux-icon.png)
-- Python ![](https://icons.iconarchive.com/icons/cornmanthe3rd/plex/16/Other-python-icon.png)
+- Python 3.*![](https://icons.iconarchive.com/icons/cornmanthe3rd/plex/16/Other-python-icon.png)
 - ChromeDriver - WebDriver for Chrome (latest stable release) ![](https://icons.iconarchive.com/icons/hopstarter/soft-scraps/16/Window-icon.png)
+- Microsoft Edge Driver (correct WebDriver version for your build of Microsoft Edge) ![](https://icons.iconarchive.com/icons/hopstarter/sleek-xp-software/16/Command-Prompt-icon.png)
 - Git ![](https://icons.iconarchive.com/icons/papirus-team/papirus-apps/16/git-icon.png)
 
 
@@ -34,7 +35,7 @@ Installation ![](https://icons.iconarchive.com/icons/hopstarter/soft-scraps/24/B
              pip install -r requirements.txt
             
 
-Run tests ![](https://secure.webtoolhub.com/static/resources/icons/set46/de215321.png)
+Run tests ![](https://icons.iconarchive.com/icons/harwen/simple/32/RUN-icon.png)
 ------------
 
 * Go to folder `pytest-framework-demo`.
