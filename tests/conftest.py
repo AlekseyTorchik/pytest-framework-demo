@@ -36,10 +36,7 @@ def app_config(env):
 @fixture(params=[webdriver.Edge, webdriver.Chrome])
 def browser(request):
     driver = request.param
-    if driver == webdriver.Edge:
-        drvr = driver(executable_path=r'D:\Programs\Setups\edgedriver64\msedgedriver.exe')
-    else:
-        drvr = driver()
+    drvr = driver()
     yield drvr
     drvr.quit()
 
