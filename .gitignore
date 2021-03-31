@@ -1,0 +1,10 @@
+# Ignored folders
+.idea/
+.pytest_cahe/
+**/__pycache__
+allure-results/
+assets/
+venv/
+
+#Ignored report html
+*.html
